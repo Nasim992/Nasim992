@@ -56,7 +56,7 @@
 <details>
   <summary>Nasim992's GitHub Stats</summary>
 
-  <img align="left" alt="Nasim992's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nasim992&show_icons=true&hide_border=true" />
+  <img align="left" alt="Nasim992's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true&theme=highcontrast" />
 
 </details>
 
