@@ -1,6 +1,6 @@
 ### Hi there, This is Nasim 👋
 
-<br/>
+<br />
 
 ## I'm a Programmer, Developer, and Learner!!
 
@@ -9,9 +9,9 @@
 - 🔭 Studying in Computer Science and Engineering at International University of Business Agriculture and Technology.
 - 👯 I’m Learning Python, do programming with python and Works with different Machine Learning Algorithm
 - 🥅 2020 Goals: Specialization to a particular area.
-- ⚡ Fun fact: I love to Explore New Technology,making videos,writing blogs.
+- ⚡ Other fact: I love to Explore New Technology,making videos,writing blogs.
 
-<br/>
+<br />
 
 <details>
 <summary>Nasim992's GitHub Stats</summary>
@@ -20,18 +20,18 @@
 
 </details>
 
-<br/>
+<br />
 
 
 <details>
 <summary> Most Used Languages </summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim992)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim992)](https://github.com/Nasim992)
 
 </details>
 
 
-<br/>
+<br />
 
 
 ### Connect with me:
