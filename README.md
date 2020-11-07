@@ -56,7 +56,7 @@
 <details>
   <summary>Nasim992's GitHub Stats</summary>
 
-  <img align="left" alt="Nasim992's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true&theme=highcontrast" />
+![Nasim992's github stats](https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true&theme=synthwave)
 
 </details>
 
