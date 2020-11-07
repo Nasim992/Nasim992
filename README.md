@@ -13,14 +13,10 @@
 
 ---
 
-<details>
-<summary>Nasim992's GitHub Stats</summary>
 <!-- ![Nasim992's github stats](https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true&theme=synthwave) -->
 
 <img width="550" alt="Nasim992's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true&theme=synthwave"/>
 
-
-</details>
 
 ---
 
