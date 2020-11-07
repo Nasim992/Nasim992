@@ -21,7 +21,7 @@
 ---
 
 
-<img width="600" alt="Nasim992's Github Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim992"/>
+<img width="300" alt="Nasim992's Github Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim992"/>
 
 
 
