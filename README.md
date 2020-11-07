@@ -76,5 +76,6 @@
 
 [website]: https://11hours.weebly.com/
 [youtube]: https://www.youtube.com/channel/UCwNqlHT1zDWQMT6whEVc9PQ
+[twitter]: https://twitter.com/mdnasimiubat
 [instagram]: https://www.instagram.com/imnaseem92/
 [linkedin]: https://www.linkedin.com/in/md-nasim-hossain-094522172/
