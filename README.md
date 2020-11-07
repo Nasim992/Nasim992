@@ -52,11 +52,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [ASP.net Core MVC Tutorial || Add Model Class || Add Controller || Add Search box || Add New Field](https://www.youtube.com/watch?v=Q1EbNYGMtZw)
-- [National Anthem On Bangladesh || WCC2](https://www.youtube.com/watch?v=vG3LA37_7W4)
-- [BPL -2019 All Sixes | Matches 01-05](https://www.youtube.com/watch?v=tOdVtHmwGHs)
-- [DNA Double Helix, Biography of Francis Crick, Protein Translation](https://www.youtube.com/watch?v=X8K80jPozYs)
-- [India-Bangladesh Benapole  Border | Benapole-Petrapole Checkpost | Proud Moment](https://www.youtube.com/watch?v=8klV5wJiMkk)
+
+- [MVC in .Net](https://www.youtube.com/watch?v=Q1EbNYGMtZw)
+
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwNqlHT1zDWQMT6whEVc9PQ)
