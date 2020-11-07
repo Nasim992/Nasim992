@@ -1,5 +1,7 @@
 ### Hi there, This is Nasim 👋
 
+<br/>
+
 ## I'm a Programmer, Developer, and Learner!!
 
 - 🌱 I’m currently learning  JavaScript,ReactJs
@@ -8,6 +10,28 @@
 - 👯 I’m Learning Python, do programming with python and Works with different Machine Learning Algorithm
 - 🥅 2020 Goals: Specialization to a particular area.
 - ⚡ Fun fact: I love to Explore New Technology,making videos,writing blogs.
+
+<br/>
+
+<details>
+<summary>Nasim992's GitHub Stats</summary>
+
+![Nasim992's github stats](https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true&theme=synthwave)
+
+</details>
+
+<br/>
+
+
+<details>
+<summary> Most Used Languages </summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim992&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+
+<br/>
 
 
 ### Connect with me:
@@ -48,17 +72,8 @@
 
 ---
 
-<details>
-  <summary>Nasim992's GitHub Stats</summary>
 
-![Nasim992's github stats](https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true&theme=synthwave)
 
-</details>
-<details>
-<summary> Most Used Languages </summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim992&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 [website]: https://11hours.weebly.com/
 [youtube]: https://www.youtube.com/channel/UCwNqlHT1zDWQMT6whEVc9PQ
 [instagram]: https://www.instagram.com/imnaseem92/
