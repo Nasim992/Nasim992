@@ -21,16 +21,8 @@
 ---
 
 
-<details>
-<summary> Most Used Languages </summary>
+<img width="600" alt="Nasim992's Github Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim992"/>
 
-<img width="550" alt="Nasim992's Github Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim992"/>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim992)](https://github.com/Nasim992)
-
-</details>
 
 
 ---
