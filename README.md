@@ -13,8 +13,6 @@
 
 ---
 
-<!-- ![Nasim992's github stats](https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true&theme=synthwave) -->
-
 <img width="550" alt="Nasim992's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true&theme=synthwave"/>
 
 
@@ -29,6 +27,7 @@
 
 
 ### Connect with me:
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/92.nasim/)
 
 [<img align="left" alt="11 Hours" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
