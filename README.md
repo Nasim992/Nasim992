@@ -28,28 +28,23 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Learn JavaScript Variables Fast! #shorts](https://www.youtube.com/watch?v=EAYMD4h9L8Q)
-- [Easy Mega Menu and Multi Level Dropdown with Animations | HTML & CSS Tutorial (2020)](https://www.youtube.com/watch?v=9GPH5xvLLRo)
-- [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
-- [Easy VS Code Docker Remote Containers | Dockerize Development Environment Easily with VS Code (2020)](https://www.youtube.com/watch?v=KFyRLxiRKAc)
-- [Clone GOOGLE with Tailwind CSS - How Google was Built in the 90s vs TODAY!](https://www.youtube.com/watch?v=8ETmAEf793g)
+
+- [MVC in .Net](https://www.youtube.com/watch?v=Q1EbNYGMtZw)
+
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCwNqlHT1zDWQMT6whEVc9PQ)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Web Scraping Using Google Chrome Extension](https://medium.com/swlh/web-scraping-using-google-chrome-extension-92f691f8a865)
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://nasim92.medium.com/)
 
 ---
 
@@ -59,7 +54,11 @@
 ![Nasim992's github stats](https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true&theme=synthwave)
 
 </details>
+<details>
+<summary> Most Used Languages </summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim992&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</details>
 [website]: https://11hours.weebly.com/
 [youtube]: https://www.youtube.com/channel/UCwNqlHT1zDWQMT6whEVc9PQ
 [instagram]: https://www.instagram.com/imnaseem92/
