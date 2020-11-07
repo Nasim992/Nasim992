@@ -1,6 +1,6 @@
 ### Hi there, This is Nasim 👋
 
-<br />
+---
 
 ## I'm a Programmer, Developer, and Learner!!
 
@@ -11,27 +11,33 @@
 - 🥅 2020 Goals: Specialization to a particular area.
 - ⚡ Other fact: I love to Explore New Technology,making videos,writing blogs.
 
-<br />
+---
 
 <details>
 <summary>Nasim992's GitHub Stats</summary>
+<!-- ![Nasim992's github stats](https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true&theme=synthwave) -->
 
-![Nasim992's github stats](https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true&theme=synthwave)
+<img width="550" alt="Nasim992's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true&theme=synthwave"/>
+
 
 </details>
 
-<br />
+---
 
 
 <details>
 <summary> Most Used Languages </summary>
+
+<img width="550" alt="Nasim992's Github Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim992"/>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim992)](https://github.com/Nasim992)
 
 </details>
 
 
-<br />
+---
 
 
 ### Connect with me:
