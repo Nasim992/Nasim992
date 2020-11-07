@@ -13,7 +13,7 @@
 
 ---
 
-<img width="550" alt="Manik Roy Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true&theme=synthwave"/>
+<img width="550" alt="Manik Roy Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true"/>
 
 ---
 
