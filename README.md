@@ -46,7 +46,7 @@
 - [India-Bangladesh Benapole  Border | Benapole-Petrapole Checkpost | Proud Moment](https://www.youtube.com/watch?v=8klV5wJiMkk)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCwNqlHT1zDWQMT6whEVc9PQ)
+➡️ [more videos...](https://www.youtube.com/channel/UCi3SzlUoLfthdYykPPA5gUw)
 
 ---
 
