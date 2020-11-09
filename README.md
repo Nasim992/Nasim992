@@ -11,13 +11,13 @@
 - 🥅 2020 Goals: Specialization in JavaScript.
 - ⚡ Other fact: I love to Explore New Technology,making videos,writing blogs.
 
----
+<br />
 
 <img width="550" alt="Nasim992's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Nasim992&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim992&card_width=550)](https://github.com/Nasim992/Nasim992)
 
----
+<br />
 
 
 ### Connect with me:
