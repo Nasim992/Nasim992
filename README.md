@@ -5,7 +5,7 @@
 ## I'm a Programmer, Developer, and Learner!!
 
 - 🌱 I’m currently learning  JavaScript,ReactJs,NodeJs,Redux
-- 🌱 I’m currently developing a software as a intern using PHP  
+- 🌱 I’m currently developing a software using PHP  
 - 🔭 Studying in Computer Science and Engineering at International University of Business Agriculture and Technology.
 - 👯 I’m Learning Python, do programming with python and Works with different Machine Learning Algorithm
 - 🥅 2020 Goals: Specialization in JavaScript.
