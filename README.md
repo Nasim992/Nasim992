@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Criminals Record Management System || CPP Project](https://www.youtube.com/watch?v=2SyPPocTjLQ)
 - [ASP.net Core MVC Tutorial || Add Model Class || Add Controller || Add Search box || Add New Field](https://www.youtube.com/watch?v=Q1EbNYGMtZw)
 - [National Anthem On Bangladesh || WCC2](https://www.youtube.com/watch?v=vG3LA37_7W4)
 - [DNA Double Helix, Biography of Francis Crick, Protein Translation](https://www.youtube.com/watch?v=X8K80jPozYs)
 - [India-Bangladesh Benapole  Border | Benapole-Petrapole Checkpost | Proud Moment](https://www.youtube.com/watch?v=8klV5wJiMkk)
+- [Best novel you should read](https://www.youtube.com/watch?v=N9fHKF37esI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCi3SzlUoLfthdYykPPA5gUw)
